@@ -1,0 +1,9 @@
+{
+  "name": "StudyVerse AI",
+  "description": "An AI-powered study platform transforming notes into multimedia content.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
